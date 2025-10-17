@@ -1,4 +1,4 @@
 # apnacollege-demo
-thos is my first resporitory.
+this is my first resporitory.
 <br>
 author - vaishnavi sharma
